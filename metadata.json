@@ -1,0 +1,8 @@
+{
+  "name": "Remix Live TV",
+  "description": "Live channels streaming player for Android TV with remote D-pad and numeric channel switching",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
